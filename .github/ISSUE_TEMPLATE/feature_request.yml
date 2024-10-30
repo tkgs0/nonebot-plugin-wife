@@ -5,13 +5,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        [GitHub Issues](https://github.com/owner/nonebot-plugin-example/issues) 专门用于错误报告和功能需求，这意味着我们不接受使用问题。如果您打开的问题不符合要求，它将会被无条件关闭。
+        [GitHub Issues](https://github.com/tkgs0/nonebot-plugin-wife/issues) 专门用于错误报告和功能需求，这意味着我们不接受使用问题。如果您打开的问题不符合要求，它将会被无条件关闭。
 
         有关使用问题，请通过以下途径：
 
         - 阅读文档以解决
         - 在社区内寻求他人解答
-        - 在 [GitHub Discussions](https://github.com/owner/nonebot-plugin-example/discussions) 上提问
+        - 在 [GitHub Discussions](https://github.com/tkgs0/nonebot-plugin-wife/discussions) 上提问
         - 在网络中搜索是否有人遇到过类似的问题
 
         如果您不知道如何有效、精准地提出一个问题，我们建议您先阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。
@@ -24,7 +24,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        在提 issue 前请确保你仔细阅读过文档，搜索过现有的 issue ，并确保你使用的是最新的 nonebot-plugin-example ，避免发生 “提出的需求是已经实现了的” 这种令人哭笑不得的情况。
+        在提 issue 前请确保你仔细阅读过文档，搜索过现有的 issue ，并确保你使用的是最新的 nonebot-plugin-wife ，避免发生 “提出的需求是已经实现了的” 这种令人哭笑不得的情况。
 
   - type: checkboxes
     attributes:
@@ -35,9 +35,9 @@ body:
           required: true
         - label: 我已使用最新版本测试过，确认功能并未实现。
           required: true
-        - label: 我确定在 [GitHub Issues](https://github.com/owner/nonebot-plugin-example/issues) 中没有相同或相似的需求。
+        - label: 我确定在 [GitHub Issues](https://github.com/tkgs0/nonebot-plugin-wife/issues) 中没有相同或相似的需求。
           required: true
-        - label: 我有足够的时间和能力，愿意为此提交 [PR](https://github.com/owner/nonebot-plugin-example/pulls) 来实现功能。
+        - label: 我有足够的时间和能力，愿意为此提交 [PR](https://github.com/tkgs0/nonebot-plugin-wife/pulls) 来实现功能。
           required: false
 
   - type: textarea
