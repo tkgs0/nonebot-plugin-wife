@@ -32,7 +32,7 @@ _✨ NoneBot 每日随机二次元老婆 ✨_
 
 ## 📖 介绍
 
-基于 [zbp](https://github.com/FloatTech/ZeroBot-Plugin) 移植的每日随机二次元老婆
+于 [zbp](https://github.com/FloatTech/ZeroBot-Plugin) 移植的每日随机二次元老婆
 
 ## 💿 安装
 
