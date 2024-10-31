@@ -114,7 +114,7 @@ _✨ NoneBot 每日随机二次元老婆 ✨_
 LOCALSTORE_DATA_DIR / random_wife / resource
 ```
 `LOCALSTORE_DATA_DIR` 替换为项目的数据存放目录
-<br>
+<br><br>
 [网络资源](https://github.com/tkgs0/nonebot-plugin-wife/tree/resource)
 
 ## ⚠️ 注意事项
