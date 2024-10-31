@@ -107,6 +107,16 @@ _✨ NoneBot 每日随机二次元老婆 ✨_
 重置wife库
 ```
 
+## wife资源库
+
+根据[nonebot localstore](https://github.com/nonebot/plugin-localstore)规范, wife库存放位置为:
+```
+LOCALSTORE_DATA_DIR / random_wife / resource
+```
+`LOCALSTORE_DATA_DIR` 替换为项目的数据存放目录
+<br>
+[网络资源](https://github.com/tkgs0/nonebot-plugin-wife/tree/resource)
+
 ## ⚠️ 注意事项
 
 **本插件目前仅支持 nonebot2 + onebot.v11 的使用方式, 一切非此二者结合的使用方式造成的问题请自行探索解决, 或者使用其他插件**
